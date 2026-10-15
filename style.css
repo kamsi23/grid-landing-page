@@ -125,7 +125,7 @@ h2 {
 }
 /* ========================================== */
 /* MOBILE SCREENS */
-@media (max-width: 376px) {
+@media (max-width: 480px) {
   nav {
     padding: 10px 20px;
   }
